@@ -1,0 +1,7 @@
+111/
+aa.txt
+my-files.txt
+total 1
+drwxr-xr-x 1 ar 197121  0  6月 29 11:37 111/
+-rw-r--r-- 1 ar 197121  0  6月 29 11:27 aa.txt
+-rw-r--r-- 1 ar 197121 25  6月 29 11:48 my-files.txt
